@@ -1,0 +1,11 @@
+Package: com.mtac.ccpowermenu
+Name: CCPowerMenu
+Depends: com.opa334.ccsupport
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Control device power options from Control Center
+Maintainer: MTAC
+Author: MTAC
+Section: Control Center (Modules)
+Icon: https://mtac.app/repo/assets/com.mtac.ccpowermenu/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.ccpowermenu.json
